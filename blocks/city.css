@@ -34,7 +34,7 @@
   gap: 8px;
 }
 
-.city__credit_title{
+.city__credit-title{
   font-size: 12px;
   line-height: 1.25;
   letter-spacing: 0.12em;
@@ -42,7 +42,7 @@
   color: #aaaaaa;
 }
 
-.city__credit_title-name{
+.city__credit-title-name{
   line-height: 1.22;
 }
 
