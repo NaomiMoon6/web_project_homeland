@@ -1,4 +1,4 @@
-.cities {
+.city {
   display: flex;
   flex-direction: column;
   gap: 80px;
@@ -7,7 +7,7 @@
   margin: 92px auto;
 }
 
-.city {
+.city-grid {
   display: grid;
   grid-template-columns: repeat(2, 1fr);
   grid-template-rows: 1fr, 2fr, 1fr;
