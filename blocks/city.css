@@ -109,19 +109,36 @@
 }
 
 @media screen and (max-width: 644px) {
-  .cities{
+  .city{
     padding: 0;
   }
   
-  .city {
-    display: flex;
-    flex-direction: column;
+  .city-grid {
+      grid-template-columns: 1fr;
+      grid-template-areas:
+      "title"
+      "credit"
+      "image"
+      "desc"
+      "button";
   }
 
   .city__title {
     font-size: 32px;
     margin: 16px;
   }
+
+  .city__credit-title{
+  font-size: 12px;
+}
+
+.city__credit-title-name{
+  font-size: 18px;
+}
+
+.city__description-text {
+  font-size: 16px;
+}
 
   .city__credit {
     margin: 16px;
