@@ -76,4 +76,4 @@ O layout foi planejado e adaptado para entregar uma interface consistente em div
 
 Você pode visualizar a página publicada e testar a responsividade através do GitHub Pages:
 
-🔗 [Visualizar o Projeto Online (GitHub Pages)](https://www.google.com/search?q=SEU_LINK_DO_GITHUB_PAGES_AQUI)
+🔗 [Visualizar o Projeto Online (GitHub Pages)](https://naomimoon6.github.io/web_project_homeland/)
